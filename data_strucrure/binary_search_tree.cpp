@@ -3,7 +3,7 @@
 using namespace std;
 
 template <typename Key, typename E> 
-class BST : publick Dictionary<Key, E> { // BST has same interface as Dictionary
+class BST : public Dictionary<Key, E> { // BST has same interface as Dictionary
 private:
     BSTNode<Key, E>* root;
     // { Key k; E it; BSTNode *left. *right; }
