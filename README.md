@@ -1,7 +1,7 @@
 # CS-BASICS
 
-# Data Structure
+## Data Structure
 
-# Algorithm
+## Algorithm
 
-# Fun
+## Fun
