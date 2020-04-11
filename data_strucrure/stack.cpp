@@ -1,3 +1,5 @@
+/* interface, array-based stack and link-based stack */
+
 template<typename E> class Stack
 {
 private:
