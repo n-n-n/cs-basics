@@ -43,3 +43,4 @@ void traverse(VarBinNode* root)
         traverse(((IntlNode*)root)->leftchild());
         traverse((IntlNode*))root)->rightchild());
     }
+}
