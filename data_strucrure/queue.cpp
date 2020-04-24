@@ -1,4 +1,4 @@
-/* interface, array-based queue and link-based queue
+/* interface, array-based queue and link-based queue */
 
 template<typename E> class Queue 
 {
